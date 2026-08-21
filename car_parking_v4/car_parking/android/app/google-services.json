@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1065134368345",
+    "project_id": "devapp-e239b",
+    "storage_bucket": "devapp-e239b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065134368345:android:bb08a9d31141ff8170f348",
+        "android_client_info": {
+          "package_name": "com.example.car_parking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC70ZKvuZddujTxozbfg8zc2qFw5rNTCqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
